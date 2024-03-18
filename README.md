@@ -1,5 +1,5 @@
 ### Hi there 👋
-![foto](fr.jpeg)
+![foto](fr.jpeg |width = 20)
 <!--
 **FabioTarocco/FabioTarocco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
