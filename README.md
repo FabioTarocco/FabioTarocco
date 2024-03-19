@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am **Fabio Tarocco**
+Ph.D. Student @UNIVAQ -> !(University of L'Aquila)[https://www.univaq.it/] -> !(Department of Information Engineering, Computer Science, and Mathematics)[https://www.disim.univaq.it/]
 
 <!--
 **FabioTarocco/FabioTarocco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
