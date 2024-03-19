@@ -1,6 +1,7 @@
 ### Hi there 👋
 I am **Fabio Tarocco**
 Ph.D. Student @![UNIVAQ](https://www.univaq.it/) under ![DISIM](https://www.disim.univaq.it/)
+Research topic: *Quantum Comuting*, *Quantum Chemistry*, *Tensor Network Algorithms*, *Algorithm Design*
 
 <!--
 **FabioTarocco/FabioTarocco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
