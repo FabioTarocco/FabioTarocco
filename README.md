@@ -1,5 +1,5 @@
 ## About Me
-I am **Fabio Tarocco**, born in 1998, from Verona, actually living in L'Aquila.
+I am **Fabio Tarocco**, born in 1998, from Verona, and now, my state is $|\rangle$.
 
 NO! I'm not the one in the profile picture, it's my *spirit guide*.
 
