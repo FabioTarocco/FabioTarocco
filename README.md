@@ -19,7 +19,9 @@ My profile page is [Fabio Tarocco](https://dsfc.univaq.it/cbbc/index.php/quantum
   - *Variational algorithms* for *Excited State resolution*
 
 -📫 How to reach me:
-  - Email: [fabio.tarocco@graduate.univaq.it](mailto:fabio.tarocco@graduate.univaq.it)
+  - [📧 fabio.tarocco@graduate.univaq.it](mailto:fabio.tarocco@graduate.univaq.it)
+  - [🟦 Linkedin](https://www.linkedin.com/in/fabio-tarocco-83a43a1a9/)
+
 <!--
 **FabioTarocco/FabioTarocco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
