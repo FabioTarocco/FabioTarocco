@@ -4,15 +4,18 @@ Ph.D. Student @[UNIVAQ :bird:](https://www.univaq.it/) under [DISIM :computer: :
 
 Research topic: *Quantum Comuting* ⚛️, *Quantum Chemistry* 🧪, *Tensor Network Algorithms* 🌐, and  *Algorithms Design* ⚙️.
 
-I am working in the [Quantum Computing and Computational Quantum Chemistry](https://dsfc.univaq.it/cbbc/) group, called **CBBC**.
+Member of the [Quantum Computing and Computational Quantum Chemistry](https://dsfc.univaq.it/cbbc/) group, called **CBBC**.
+My profile page is [Fabio Tarocco](https://dsfc.univaq.it/cbbc/index.php/quantum-computation-team/fabio-tarocco).
 
-- 🌱 I’m currently learning:
+- 🔭 I’m currently working on:
   - *Single-reference Quantum Chemistry* methods for *Ground state systems*
   - *Variational Quantum Algorithms* for *Ground State resolution*
-  - *TensorNetwork* methods: ***QC-DMRG***
+  - *TensorNetwork* methods: **QC-DMRG**
+  - *Quantum Information Theory*
+  - *Ansatz (PQC)* design 
+- 🌱 I’m currently learning:
   - *Multi-reference Quantum Chemistry* methods for *Excited systems*
   - *Variational algorithms* for *Excited State resolution*
-  - *Quantum Information Theory*
   
 <!--
 **FabioTarocco/FabioTarocco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
