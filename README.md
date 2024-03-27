@@ -6,6 +6,8 @@ NO! I'm not the one in the profile picture, it's my *spirit guide*.
 - 🎹 I am a music-devouring listener, I listen to whatever comes to mind, covering all possible genres. I have a particular inclination for electronic music, among all the subgenres Techno, Dark-Techno, UK-Drum&Bass stand out.
 My ✨ _secret dream_ ✨ is to go all night to the famous [Berghain](https://de.wikipedia.org/wiki/Berghain) club in Berlin 🖤
 
+- 🎥 I love watching films, better at cinema. Sci-fi, Thriller, and Horror movies are my favorites.
+
 ## Academia
 Ph.D. Student @[UNIVAQ :bird:](https://www.univaq.it/) under [DISIM :computer: :heavy_division_sign:](https://www.disim.univaq.it/)
 
