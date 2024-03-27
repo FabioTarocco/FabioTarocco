@@ -1,6 +1,8 @@
-# 
+## About Me
+I am **Fabio Tarocco**, born in 1998, from Verona, actually living in L'Aquila.
+
+
 ## Academia
-I am **Fabio Tarocco**
 Ph.D. Student @[UNIVAQ :bird:](https://www.univaq.it/) under [DISIM :computer: :heavy_division_sign:](https://www.disim.univaq.it/)
 
 Research topic: *Quantum Comuting* ⚛️, *Quantum Chemistry* 🧪, *Tensor Network Algorithms* 🌐, and  *Algorithms Design* ⚙️.
@@ -18,7 +20,6 @@ My profile page is [Fabio Tarocco](https://dsfc.univaq.it/cbbc/index.php/quantum
 ### 🌱 I’m currently learning:
   - *Multi-reference Quantum Chemistry* methods for *Excited systems*
   - *Variational algorithms* for *Excited State resolution*
-
 
 
 ### 📫 How to reach me:
