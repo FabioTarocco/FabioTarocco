@@ -1,4 +1,4 @@
-# Bo  👋
+# Boh Random Title
 ## About Me
 I am **Fabio Tarocco**
 Ph.D. Student @[UNIVAQ :bird:](https://www.univaq.it/) under [DISIM :computer: :heavy_division_sign:](https://www.disim.univaq.it/)
