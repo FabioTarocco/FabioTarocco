@@ -7,18 +7,20 @@ Research topic: *Quantum Comuting* ⚛️, *Quantum Chemistry* 🧪, *Tensor Net
 Member of the [Quantum Computing and Computational Quantum Chemistry](https://dsfc.univaq.it/cbbc/) group, called **CBBC**.
 My profile page is [Fabio Tarocco](https://dsfc.univaq.it/cbbc/index.php/quantum-computation-team/fabio-tarocco).
 
--🔭 I’m currently working on:
+##🔭 I’m currently working on:
   - *Single-reference Quantum Chemistry* methods for *Ground state systems*
   - *Variational Quantum Algorithms* for *Ground State resolution*
   - *TensorNetwork* methods: **QC-DMRG**
   - *Quantum Information Theory*
   - *Ansatz (PQC)* design
      
--🌱 I’m currently learning:
+##🌱 I’m currently learning:
   - *Multi-reference Quantum Chemistry* methods for *Excited systems*
   - *Variational algorithms* for *Excited State resolution*
 
--📫 How to reach me:
+
+
+##📫 How to reach me:
   - [📧 fabio.tarocco@graduate.univaq.it](mailto:fabio.tarocco@graduate.univaq.it)
   - [🟦 Linkedin](https://www.linkedin.com/in/fabio-tarocco-83a43a1a9/)
 
