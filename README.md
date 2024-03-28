@@ -4,8 +4,9 @@ I am **Fabio Tarocco**, born in 1998, from Verona, and now, living in $\frac{|\t
 Actually, Ph.D. student at the University of L'Aquila.
 
 NO! I'm not the one in the profile picture, it's my *spirit guide*.
+![alt text](https://github.com/FabioTarocco/FabioTarocco/blob/[branch]/image.jpg?raw=true)
 
-- 🎹 I am a music-devouring listener, I listen to whatever comes to mind, covering all possible genres. I have a particular inclination for electronic music, among all the subgenres Techno, Dark-Techno, UK-Drum&Bass stand out.
+- 🎹 I am a music-devouring listener, I listen to whatever comes to mind, covering all possible genres. I have a particular inclination for electronic music, among all the subgenres Techno, Dark-Techno, and UK-Drum&Bass stand out.
 My ✨ _secret dream_ ✨ is to go all night to the famous [Berghain](https://de.wikipedia.org/wiki/Berghain) club in Berlin 🖤
 - 🎥 I love watching films, better at cinema. Sci-fi, Thriller, and Horror movies are my favorites.
 - 🧑‍🍳 I love cooking as much as I love eating. You can convince me pretty quickly by proposing (*Kebab*,*Pizza*, *Hamburger*) $\leftarrow$ **Junk Food** in general, as well as a good *Risotto* or *Pasta*.
@@ -29,7 +30,7 @@ My profile page is [Fabio Tarocco](https://dsfc.univaq.it/cbbc/index.php/quantum
   - *Variational algorithms* for *Excited State resolution*
 
 
-### 📫 How to reach me:
+## 📫 How to reach me:
   - [📧 fabio.tarocco@graduate.univaq.it](mailto:fabio.tarocco@graduate.univaq.it)
   - [🟦 Linkedin](https://www.linkedin.com/in/fabio-tarocco-83a43a1a9/)
 
