@@ -14,7 +14,7 @@ My ✨ _secret dream_ ✨ is to go all night to the famous [Berghain](https://de
 Ph.D. Student @[UNIVAQ :bird:](https://www.univaq.it/) under [DISIM :computer: :heavy_division_sign:](https://www.disim.univaq.it/)\
 Research topic: *Quantum Comuting* ⚛️, *Quantum Chemistry* 🧪, *Tensor Network Algorithms* 🌐, and  *Algorithms Design* ⚙️.\
 Member of the [Quantum Computing and Computational Quantum Chemistry](https://dsfc.univaq.it/cbbc/) group, called **CBBC**.\
-My profile page is [Fabio Tarocco](https://dsfc.univaq.it/cbbc/index.php/quantum-computation-team/fabio-tarocco).
+My CBBC profile-page is [Fabio Tarocco](https://dsfc.univaq.it/cbbc/index.php/quantum-computation-team/fabio-tarocco).
 
 ### 🔭 I’m currently working on:
   - *Single-reference Quantum Chemistry* methods for *Ground state systems*
