@@ -3,10 +3,8 @@ I am **Fabio Tarocco**, born in 1998, from Verona, and now, living in $\frac{|\t
 
 Actually, Ph.D. student at the University of L'Aquila.
 
-NO! I'm not the one in the profile picture, it's my *spirit guide*.
-
-Okay, that's me ⤵️
-
+NO! I'm not the one in the profile picture, it's my *spirit guide*.\
+Okay, that's me ⤵️\
 <img src="https://github.com/FabioTarocco/FabioTarocco/blob/main/fr.jpeg" width="200" height="200" />
 
 - 🎹 I am a music-devouring listener, I listen to whatever comes to mind, covering all possible genres. I have a particular inclination for electronic music, among all the subgenres Techno, Dark-Techno, and UK-Drum&Bass stand out.
