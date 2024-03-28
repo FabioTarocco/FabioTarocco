@@ -32,6 +32,12 @@ My profile page is [Fabio Tarocco](https://dsfc.univaq.it/cbbc/index.php/quantum
   - *Multi-reference Quantum Chemistry* methods for *Excited systems*
   - *Variational algorithms* for *Excited State resolution*
 
+### 📰 Publications:
+  - *"Computing graph edit distance on quantum devices"* M.Incudini, F.Tarocco, R.Mengoni, A.Mandarino, A.Di Pierro
+
+    [DOI](https://link.springer.com/article/10.1007/s42484-022-00077-x)
+    
+
 
 ## 📫 How to reach me:
   - [📧 fabio.tarocco@graduate.univaq.it](mailto:fabio.tarocco@graduate.univaq.it)
