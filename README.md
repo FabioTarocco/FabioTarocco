@@ -28,8 +28,9 @@ My CBBC profile-page is [Fabio Tarocco](https://dsfc.univaq.it/cbbc/index.php/qu
   - *Variational algorithms* for *Excited State resolution*
 
 ### 📰 Publications:
-  - *"Computing graph edit distance on quantum devices"* M.Incudini, F.Tarocco, R.Mengoni, A.Mandarino, A.Di Pierro
-
+  - *"Computing graph edit distance on quantum devices"*\
+    M.Incudini, **F.Tarocco**, R.Mengoni, A.Mandarino, A.Di Pierro\
+    August 2022, [Quantum Machine Intelligence](https://link.springer.com/journal/42484)
     [DOI](https://link.springer.com/article/10.1007/s42484-022-00077-x)
     
 
