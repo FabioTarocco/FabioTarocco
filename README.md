@@ -11,11 +11,9 @@ My ✨ _secret dream_ ✨ is to go all night to the famous [Berghain](https://de
 - 🎥 I love watching films, better at cinema. Sci-fi, Thriller, and Horror movies are my favorites.
 - 🧑‍🍳 I love cooking as much as I love eating. You can convince me pretty quickly by proposing (*Kebab*,*Pizza*, *Hamburger*) $\leftarrow$ **Junk Food** in general, as well as a good *Risotto* or *Pasta*.
 ## Academia
-Ph.D. Student @[UNIVAQ :bird:](https://www.univaq.it/) under [DISIM :computer: :heavy_division_sign:](https://www.disim.univaq.it/)
-
-Research topic: *Quantum Comuting* ⚛️, *Quantum Chemistry* 🧪, *Tensor Network Algorithms* 🌐, and  *Algorithms Design* ⚙️.
-
-Member of the [Quantum Computing and Computational Quantum Chemistry](https://dsfc.univaq.it/cbbc/) group, called **CBBC**.
+Ph.D. Student @[UNIVAQ :bird:](https://www.univaq.it/) under [DISIM :computer: :heavy_division_sign:](https://www.disim.univaq.it/)\
+Research topic: *Quantum Comuting* ⚛️, *Quantum Chemistry* 🧪, *Tensor Network Algorithms* 🌐, and  *Algorithms Design* ⚙️.\
+Member of the [Quantum Computing and Computational Quantum Chemistry](https://dsfc.univaq.it/cbbc/) group, called **CBBC**.\
 My profile page is [Fabio Tarocco](https://dsfc.univaq.it/cbbc/index.php/quantum-computation-team/fabio-tarocco).
 
 ### 🔭 I’m currently working on:
