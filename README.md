@@ -29,6 +29,10 @@ My CBBC profile-page is [Fabio Tarocco](https://dsfc.univaq.it/cbbc/index.php/qu
   - *Variational algorithms* for *Excited State resolution*
 
 ### 📰 Publications:
+  - *"Compact Multi-Threshold Quantum Information Driven Ansatz For Strongly Interactive Lattice Spin Models"*\
+    **F.Tarocco**, D.Materia, L.Ratini, L.Guidoni\
+    August 2024, [Arxiv](https://arxiv.org/abs/2408.02639)
+    [DOI](https://doi.org/10.48550/arXiv.2408.02639)
   - *"Computing graph edit distance on quantum devices"*\
     M.Incudini, **F.Tarocco**, R.Mengoni, A.Mandarino, A.Di Pierro\
     August 2022, [Quantum Machine Intelligence](https://link.springer.com/journal/42484)
