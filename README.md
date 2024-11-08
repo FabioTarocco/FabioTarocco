@@ -1,5 +1,5 @@
 ## About Me
-I am **Fabio Tarocco**, born in 1998, from Verona (Italy), and now, living in $\frac{|\text{Verona}\rangle + |\text{L'Aquila}\rangle}{\sqrt{2}}$.\
+I am **Fabio Tarocco**, born in 1998, from Verona (Italy), and now, living in $\frac{|\text{Verona}\rangle + |\text{L'Aquila}\rangle + |\text{Helsinki}\rangle}{\sqrt{3}}$.\
 Actually, Ph.D. student at the University of L'Aquila.
 
 NO! I'm not the one in the profile picture, it's my *spirit guide*.\
