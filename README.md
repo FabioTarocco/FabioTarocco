@@ -29,10 +29,16 @@ My CBBC profile-page is [Fabio Tarocco](https://dsfc.univaq.it/cbbc/index.php/qu
   - *Variational algorithms* for *Excited State resolution*
 
 ### 📰 Publications:
-  - *""*\
+  - *"Multi-QIDA method for VQE state preparation in molecular systems"*
+    **F.Tarocco**, D.Materia, L.Ratini, L.Guidoni\
+    June 2025, Arxiv
+    DOI
+    
+  - *"Quantum Computing for Photosensitizer Design in Photodynamic Therapy"*\
     H.Zehr, A.Baiardi, F.Tacchino, A.Gandon, L.E.Fischer, Y.Xu, F.P.DiFilippo, L.Guidoni, P.A.B.Haase, W.N.Talarico, M.Stella, **F.Tarocco**, A.Nykänen, A.Fitzpatrick, A.Miller, L.Thiessen, S.Knecht, E.M.Borrelli, S.Maniscalco, F.Pavošević, I.Tavernelli, E.Maytin, V.Krishna\
     May 2025, [Annual Review of Biomedical Data Science](https://www.annualreviews.org/content/journals/biodatasci)
-    [DOI](https://doi.org/10.1146/annurev-biodatasci-103123-095644) 
+    [DOI](https://doi.org/10.1146/annurev-biodatasci-103123-095644)
+    
   - *"Compact Multi-Threshold Quantum Information Driven Ansatz For Strongly Interactive Lattice Spin Models"*\
     **F.Tarocco**, D.Materia, L.Ratini, L.Guidoni\
     April 2025,  [Journal of Physics A: Mathematical and Theoretical](https://iopscience.iop.org/journal/1751-8121)
