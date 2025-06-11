@@ -29,10 +29,15 @@ My CBBC profile-page is [Fabio Tarocco](https://dsfc.univaq.it/cbbc/index.php/qu
   - *Variational algorithms* for *Excited State resolution*
 
 ### 📰 Publications:
+  - *""*\
+    H.Zehr, A.Baiardi, F.Tacchino, A.Gandon, L.E.Fischer, Y.Xu, F.P.DiFilippo, L.Guidoni, P.A.B.Haase, W.N.Talarico, M.Stella, **F.Tarocco**, A.Nykänen, A.Fitzpatrick, A.Miller, L.Thiessen, S.Knecht, E.M.Borrelli, S.Maniscalco, F.Pavošević, I.Tavernelli, E.Maytin, V.Krishna\
+    May 2025, [Annual Review of Biomedical Data Science](https://www.annualreviews.org/content/journals/biodatasci)
+    [DOI](https://doi.org/10.1146/annurev-biodatasci-103123-095644) 
   - *"Compact Multi-Threshold Quantum Information Driven Ansatz For Strongly Interactive Lattice Spin Models"*\
     **F.Tarocco**, D.Materia, L.Ratini, L.Guidoni\
-    August 2024, [Arxiv](https://arxiv.org/abs/2408.02639)
-    [DOI](https://doi.org/10.48550/arXiv.2408.02639)
+    April 2025,  [Journal of Physics A: Mathematical and Theoretical](https://iopscience.iop.org/journal/1751-8121)
+    [DOI](https://doi.org/10.1088/1751-8121/adc4a1)
+    
   - *"Computing graph edit distance on quantum devices"*\
     M.Incudini, **F.Tarocco**, R.Mengoni, A.Mandarino, A.Di Pierro\
     August 2022, [Quantum Machine Intelligence](https://link.springer.com/journal/42484)
