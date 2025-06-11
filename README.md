@@ -30,7 +30,7 @@ My CBBC profile-page is [Fabio Tarocco](https://dsfc.univaq.it/cbbc/index.php/qu
   - *Variational algorithms* for *Excited State resolution*
 
 ### 📰 Publications:
-  - *"Multi-QIDA method for VQE state preparation in molecular systems"*
+  - *"Multi-QIDA method for VQE state preparation in molecular systems"*\
     **F.Tarocco**, D.Materia, L.Ratini, L.Guidoni\
     June 2025, Arxiv
     DOI
