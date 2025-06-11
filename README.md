@@ -18,6 +18,7 @@ My CBBC profile-page is [Fabio Tarocco](https://dsfc.univaq.it/cbbc/index.php/qu
 [ResearchGate](https://www.researchgate.net/profile/Fabio-Tarocco) - [Google Scholar](https://scholar.google.co.in/citations?user=KOsdHl4AAAAJ&hl=en) - [Orcid](https://orcid.org/0000-0002-2011-5695)
 
 ### 🔭 I’m currently working on:
+  - *Main developer* of [QuAQ](https://gitlab.com/leonardoguidoni/quaq) [Quantum@L'Aquila] code base.
   - *Single-reference Quantum Chemistry* methods for *Ground state systems*
   - *Variational Quantum Algorithms* for *Ground State resolution*
   - *TensorNetwork* methods: **QC-DMRG**
